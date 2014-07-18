@@ -1,0 +1,81 @@
+/* ----------------------------- LAYOUT ----------------------------- */
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	background-color: #000000;
+	margin: 0 auto;
+}
+
+#hero img {
+	margin-top: 25px;
+	margin-left: 15%; 
+}
+
+#prop {
+	border-top: 5px #FF1D4C;
+	padding: 5%;
+	background-color: #FFFFFF;
+}
+
+#prop h1 {
+	margin-top: 20px;
+	font-family: 'Loved by the King', cursive;
+	font-size: 65px;
+	color: #FF1D4C;
+	text-align: center;
+}
+
+#prop h2 {
+	font-family: 'Marvel', sans-serif;
+	text-align: center;
+}
+
+#quarter {
+	width: 25%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 25px;
+	display: inline;
+	text-align: center;
+}
+
+#things {
+	margin-top: 60px;
+	padding-top: 60px;
+	font-size: 95px;
+	text-align: center;
+	color: #000000;
+}
+
+#things i:hover {
+	color: #FF1D4C;
+}
+
+#little {
+	font-size: 30px;
+	margin-bottom: 15px;
+	color: #FF1D4C;
+}
+
+#closure {
+	padding: 5%;
+}
+
+#closure i {
+	float: left;
+	display: inline;
+	color: #FFFFFF;
+	display: inline;
+	font-size: 40px;
+	margin-left: 18%;
+}
+
+#closure i:hover {
+	color: #FF1D4C;
+}
