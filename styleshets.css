@@ -1,0 +1,13 @@
+body {
+	width: 100%;
+}
+
+#nav {
+	height: 35px;
+	background-color: #ffffff; 
+}
+
+#hero {
+	height: 120px;
+	background-color: #26CC8C;
+}
