@@ -57,7 +57,6 @@ body {
 }
 
 #things i {
-	-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
     transition: color 0.5s;
 }
 
@@ -82,7 +81,6 @@ body {
 	display: inline;
 	font-size: 40px;
 	margin-left: 18%;
-	-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
     transition: color 0.5s;
 }
 
