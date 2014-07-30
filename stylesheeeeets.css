@@ -32,7 +32,8 @@ body {
 }
 
 #prop h2 {
-	font-family: 'Marvel', sans-serif;
+	font-family: 'SourceSansPro', sans-serif;
+	font-weight: 200;
 	text-align: center;
 	font-size: 45px;
 	text-shadow: 3px 3px 6px #C4C4C4;
@@ -81,7 +82,7 @@ body {
 	display: inline;
 	font-size: 40px;
 	margin-left: 18%;
-    transition: color 0.5s;
+    transition: color 0.5s -moz-transition;
 }
 
 #closure i:hover {
