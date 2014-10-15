@@ -41,23 +41,20 @@ body {
 
 #quarter {
 	width: 25%;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	padding: 25px;
+	margin: 85px;
 	display: inline;
 	text-align: center;
 }
 
 #things {
-	margin-top: 60px;
-	padding-top: 60px;
+	padding: 85px;
 	font-size: 65px;
 	text-align: center;
-	color: #000000;
 	text-shadow: 3px 3px 6px #C4C4C4;
 }
 
 #things i {
+	color: #000000;
     transition: color 0.5s;
 }
 
