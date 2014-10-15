@@ -65,12 +65,6 @@ body {
 	color: #FF1D4C;
 }
 
-#little {
-	font-size: 30px;
-	margin-bottom: 15px;
-	color: #FF1D4C;
-}
-
 #closure {
 	padding: 5%;
 }
@@ -82,7 +76,7 @@ body {
 	display: inline;
 	font-size: 40px;
 	margin-left: 18%;
-    transition: color 0.5s -moz-transition;
+    transition: color 0.5s;
 }
 
 #closure i:hover {
